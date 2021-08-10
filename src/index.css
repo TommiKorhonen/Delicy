@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&display=swap");
+
+body {
+  @apply font-montserrat bg-black;
+}
+h1,
+h2 {
+  @apply font-bebas;
+}
+h1,
+h2,
+h3,
+p {
+  @apply max-w-prose;
+}
+h2 {
+  @apply text-white;
+}
+h3 {
+  @apply text-yellow-300;
+}
+.centerFlex {
+  @apply flex items-center justify-center;
+}
+.btn {
+  @apply text-black  uppercase border-none bg-yellow-300 p-4 text-lg;
+}
