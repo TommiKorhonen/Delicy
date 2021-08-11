@@ -9,6 +9,8 @@ const Home = () => {
     <> 
       <Header/>
       <Content /> {/* Main */}
+      <Stayupdated/> {/* Aside */}
+      <Footer/>
     </>
     )
 }

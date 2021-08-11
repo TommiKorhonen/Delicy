@@ -8,7 +8,7 @@ const Dropdown = ({toggle, isOpen}) => {
         <div className={isOpen ?"fixed h-full w-full grid grid-rows-1 text-center items-center bg-black z-20 " : 'hidden'}  >
             <ul className="text-white">
                 <li className="flex flex-col text-4xl gap-10 uppercase" onClick={toggle}>
-                    <Link to="/Delicy">Home</Link>
+                    <Link to="/">Home</Link>
                     <Link to="/about">About</Link>
                     <Link to="/contact">Contact</Link>
                 </li>

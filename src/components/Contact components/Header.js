@@ -4,7 +4,7 @@ import Form from './Form'
 const Header = () => {
     return (
         <header className="flex flex-col h-screen">
-            <div className="centerFlex flex-col m-auto gap-8">
+            <div className="centerFlex flex-col mt-32 m-auto gap-8">
                 <div className="p-4">
                     <h2 className="text-6xl text-center">Get in touch!</h2>
                     <p className="text-gray-400 text-md">Leave us a message and someone will get back to you shortly</p>

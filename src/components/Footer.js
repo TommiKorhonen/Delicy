@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className="grid p-16 bg text-white bg-gray-900">
             <div className="centerFlex flex-col text-center gap-8">
                 <ul className="flex flex-col gap-4 text-2xl cursor-pointer ">
-                    <Link to="/Delicy">Home</Link>
+                    <Link to="/">Home</Link>
                     <Link to="/about">About</Link>
                     <Link to="/contact">Contact</Link>
                 </ul>
