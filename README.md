@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# What I learned ?
+* When client side rendering on Github using react router. Had to use hashrouting since github doesnt support client side rendering.
+* Aos library animations
+* React router-dom
+* Single-page-app
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
