@@ -3,6 +3,7 @@
 * Aos library animations
 * React router-dom
 * Single-page-app
+* Tailwind 
 
 
 ## Getting Started with Create React App
