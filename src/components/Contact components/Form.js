@@ -2,7 +2,7 @@ import React from 'react'
 
 const Form = () => {
     return (
-        <div className="p-8 rounded-md bg-gray-700 centerFlex flex-col w-full">
+        <div className="p-8 rounded-md bg-gray-700 centerFlex flex-col w-full max-w-3xl m-12 m-auto">
             <form action="" className="p-8 flex flex-col gap-4 w-full ">
                 <input type="text" placeholder="Your name" className="rounded-md outline-none p-2 w-full max-w-2xl"/>
                 <input type="text" placeholder="Email address" className="rounded-md outline-none p-2 w-full max-w-2xl"/>
