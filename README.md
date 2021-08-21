@@ -5,6 +5,9 @@
 * Single-page-app
 * Tailwind 
 
+# !NOTE!
+* Refreshing doesn't work in signIn page, since I am using client side rendering with react router dom. 
+* Will get github error 404 if you refresh in signIn page.
 
 ## Getting Started with Create React App
 
